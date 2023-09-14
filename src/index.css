@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Noto Sans TC", sans-serif;
+}
+
+.noto-sans-tc-400 {
+  font-family: "Noto Sans TC", sans-serif;
+  font-weight: 400;
+}
+
+.noto-sans-tc-500 {
+  font-family: "Noto Sans TC", sans-serif;
+  font-weight: 500;
+}
+
+.noto-sans-tc-700 {
+  font-family: "Noto Sans TC", sans-serif;
+  font-weight: 700;
+}
+
+.scrollbar::-webkit-scrollbar {
+  width: 0.45rem;
+  height: 0.45rem;
+}
+
+.scrollbar::-webkit-scrollbar-thumb {
+  border-radius: 0.45rem;
+  background-color: #aeaeae;
+  visibility: hidden;
+}
+
+.scrollbar:hover::-webkit-scrollbar-thumb {
+  visibility: visible;
+}
