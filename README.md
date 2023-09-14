@@ -1,5 +1,14 @@
 # Ubike即時站點資訊模擬
+### 縣市篩選前
+![縣市篩選前](https://i.imgur.com/qu3kXIi.png)
+### 縣市篩選後
+![縣市篩選後](https://i.imgur.com/oZwjN5d.png)
+### 條件搜尋
+![條件搜尋](https://i.imgur.com/O7WobJP.png)
 ## GitHub Pages 網址連結
+```
+https://billtll.github.io/Ubike_test/
+```
 ## 功能簡介
 - [x] 可透過文字篩選縣市清單
 - [x] 按鈕點擊，顯示 / 收合 縣市清單、搜尋站點清單
