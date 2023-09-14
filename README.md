@@ -1,8 +1,8 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Ubike即時站點資訊模擬
+## GitHub Pages 網址連結
+## 功能簡介
+- [x] 可透過文字篩選縣市清單
+- [x] 按鈕點擊，顯示 / 收合 縣市清單、搜尋站點清單
+- [x] 具備一鍵 全選 / 清除 所有篩選區域
+- [x] 可針對縣市搜尋、勾選 / 取消勾選 checkbox、站點搜尋即時反饋
+- [x] 點擊導覽列可切換不同路由(但頁面資訊皆相同)
